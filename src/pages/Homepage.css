@@ -1,0 +1,15 @@
+.main-section{
+   
+    display: flex;
+}
+.left-section{
+    width: 25vw;
+    height: 99.2vh;
+
+}
+.right-section{
+    width: 75vw;
+    height: 99.2vh;
+    background-color:
+    #F7ECDC;
+}
